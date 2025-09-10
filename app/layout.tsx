@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   ],
   creator: "Dawid Strużyński",
   authors: [{ name: "Dawid Strużyński" }],
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon-16x16.png',
+    apple: '/apple-touch-icon.png',
+  },
 };
 
 export default function RootLayout({
