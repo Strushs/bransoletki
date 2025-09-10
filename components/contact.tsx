@@ -45,7 +45,7 @@ export function Contact() {
           <p className="text-muted-foreground mb-6">Zaobserwuj nas na socialmediach</p>
           <div className="flex justify-center gap-4">
             <a
-              href="#"
+              href="https://www.instagram.com/lesnapracowniahandmade"
               className="inline-flex items-center justify-center w-10 h-10 bg-primary/20 hover:bg-primary/30 rounded-full transition-colors"
             >
               <span className="sr-only">Instagram</span>
@@ -54,7 +54,7 @@ export function Contact() {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://www.facebook.com/lesnapracowniahandmade"
               className="inline-flex items-center justify-center w-10 h-10 bg-primary/20 hover:bg-primary/30 rounded-full transition-colors"
             >
               <span className="sr-only">Facebook</span>
